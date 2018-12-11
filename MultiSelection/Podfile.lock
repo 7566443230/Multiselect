@@ -1,0 +1,16 @@
+PODS:
+  - HGRippleRadarView (0.1.2)
+
+DEPENDENCIES:
+  - HGRippleRadarView
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - HGRippleRadarView
+
+SPEC CHECKSUMS:
+  HGRippleRadarView: 5379e27634c09222ebc836671c7425ad7b257cc4
+
+PODFILE CHECKSUM: ee86e34a8665b4394ea56967ba16e6e4dc0b5386
+
+COCOAPODS: 1.5.3
